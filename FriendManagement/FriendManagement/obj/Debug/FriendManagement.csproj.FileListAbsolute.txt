@@ -1,0 +1,12 @@
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\bin\Debug\FriendManagement.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\bin\Debug\FriendManagement.exe
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\bin\Debug\FriendManagement.pdb
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\obj\Debug\FriendManagement.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\obj\Debug\FriendManagement.frmMain.resources
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\obj\Debug\FriendManagement.Presentation.frmFriendInformation.resources
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\obj\Debug\FriendManagement.Properties.Resources.resources
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\obj\Debug\FriendManagement.csproj.GenerateResource.Cache
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\obj\Debug\FriendManagement.exe
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\obj\Debug\FriendManagement.pdb
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\obj\Debug\FriendManagement.Presentation.frmNewFriendInformation.resources
+c:\users\dark\documents\visual studio 2013\Projects\FriendManagement\FriendManagement\obj\Debug\FriendManagement.Presentation.Mycontrol.ucText.resources
